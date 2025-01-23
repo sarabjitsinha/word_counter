@@ -1,6 +1,8 @@
 
 export const Footer = () => {
   return (
-    <div>@copyright Reserved 2025</div>
+    <footer>
+    @copyright Reserved 2025
+    </footer>
  )
 }

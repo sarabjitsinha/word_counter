@@ -1,3 +1,6 @@
 body{
     background-color: rgb(106, 188, 216);
+    height: 150vh;
+    position: relative;
 }
+
